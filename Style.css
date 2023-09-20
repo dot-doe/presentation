@@ -11,7 +11,7 @@
     justify-content: center;
 }
 
-.header1 > div {
+.header1 > h1 {
     margin-top: 40px;
     font-size: 60px;
     
@@ -45,6 +45,7 @@
 .LarryBird > h1 {
     margin: 64px;
     font-size: 64px;
+    color: aliceblue;
 }
 
 .Larryph {
@@ -56,12 +57,14 @@
 .Larryph > p {
     margin-top: 2rem;
     font-size: 24px;
+    color: aliceblue;
 }
 
 
 .Partizan {
     background-color: black;
     display: grid;
+    grid-template-rows: auto auto auto;
     color: antiquewhite;
 
 }
@@ -84,6 +87,7 @@
 
 #PartizanF {
     background-color: black;
+    display: flex;
     color: antiquewhite;
     font-size: 24px;
 }
@@ -98,8 +102,8 @@
 .dirk > h1 {
     background-color: navy;
     color: antiquewhite;
-    margin-top: 2rem;
-    font-size: 24px ;
+    margin: 64px;
+    font-size:64px ;
 }
 
 .dirkph {
