@@ -1,0 +1,111 @@
+@media screen and (max-width: 768px ) {
+    h1 {
+        color: aqua;
+    }
+    
+}
+
+.header1 {
+    display: flex;
+    background-color: darkgoldenrod;
+    justify-content: center;
+}
+
+.header1 > div {
+    margin-top: 40px;
+    font-size: 60px;
+    
+
+}
+.header1 > p {
+    margin: 20px;
+    font-size: 32px;
+}
+
+.indexP {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: cyan;
+
+}
+
+.indexP > p {
+    margin: 64px;
+    font-size: 24px;
+
+}
+
+.LarryBird {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: green;
+
+}
+
+.LarryBird > h1 {
+    margin: 64px;
+    font-size: 64px;
+}
+
+.Larryph {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: green;
+}
+
+.Larryph > p {
+    margin-top: 2rem;
+    font-size: 24px;
+}
+
+
+.Partizan {
+    background-color: black;
+    display: grid;
+    color: antiquewhite;
+
+}
+
+.Partizan > h1 {
+    background-color: black;
+    margin: 64px;
+    font-size: 64px;
+    color: antiquewhite;
+
+}
+
+.Partizan > p {
+    background-color: black;
+    color: antiquewhite;
+    margin-top: 2rem;
+    font-size: 24px;
+
+}
+
+#PartizanF {
+    background-color: black;
+    color: antiquewhite;
+    font-size: 24px;
+}
+
+.dirk {
+    background-color: navy;
+    display: flex;
+    color: antiquewhite;
+    
+}
+
+.dirk > h1 {
+    background-color: navy;
+    color: antiquewhite;
+    margin-top: 2rem;
+    font-size: 24px ;
+}
+
+.dirkph {
+    background-color: navy;
+    display: grid;
+    color: antiquewhite;
+    margin-top: 2rem;
+    font-size: 24px;
+}
